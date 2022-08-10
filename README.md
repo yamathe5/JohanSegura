@@ -2,6 +2,8 @@
       I’m Johan Segura - FullStack developer
         
       ### FullStack Developer.
+      HTML | CSS | Javascript | React.js | Firebase | Ruby | Ruby on Rails | Postgresql
+      Sass | Bootstrap | Tailwinds | C++ | Git & Github
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,ruby,rails,postgres,heroku,html,css,bootstrap,sass,git,github,bash,linux,cpp,figma	)](https://skillicons.dev)
